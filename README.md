@@ -4,7 +4,7 @@
 
 ### Empty Desktop
 <p align="center">
-    <img src="assets/desktop.png" alt="desktop", width="600"/>
+    <img src="assets/desktop.png" alt="desktop"/>
     <br/>
 </p>
 
