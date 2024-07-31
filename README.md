@@ -2,6 +2,14 @@
 
 ## Previews
 
+|          Name             |                Preview                     |
+|          :---:            |                 :---:                      |
+| Empty Desktop             | ![desktop](assets/desktop.png)             | 
+| Neovim, Cava, and Vumz    | ![desktop](assets/nvim-cava-vumz.png)      | 
+| Neofetch                  | ![desktop](assets/neofetch.png)            | 
+| Wofi                      | ![desktop](assets/wofi.png)                | 
+| Ranger, Pipes, and Cowsay | ![desktop](assets/ranger-pipes-cowsay.png) | 
+
 ### Empty Desktop
 <p align="center">
     <img src="assets/desktop.png" alt="desktop"/>
