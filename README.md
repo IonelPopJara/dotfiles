@@ -1,39 +1,35 @@
 <h1 align="center"><i>home/mults/.config/</i></h1>
 
-# dotfiles
-My os configuration files
-
 ## Previews
 
+### Empty Desktop
 <p align="center">
     <img src="assets/desktop.png" alt="desktop", width="600"/>
     <br/>
-    <i>Empty desktop<i>
 </p>
 
-
+### NeoVIM, Cava, and Vumz
 <p align="center">
     <img src="assets/nvim-cava-vumz.png" alt="nvim-cava-vumz"/>
     <br/>
-    <i>NeoVim, Cava, and Vumz<i>
 </p>
 
+### Neofetch
 <p align="center">
     <img src="assets/neofetch.png" alt="neofetch"/>
     <br/>
-    <i>Neofetch<i>
 </p>
 
+### Wofi
 <p align="center">
     <img src="assets/wofi.png" alt="wofi"/>
     <br/>
-    <i>Wofi<i>
 </p>
 
+### Ranger, Pipes, and Cowsay
 <p align="center">
     <img src="assets/ranger-pipes-cowsay.png" alt="ranger-pipes-cowsay"/>
     <br/>
-    <i>Ranger, Pipes, and Cowsay<i>
 </p>
 
 ## Overview
