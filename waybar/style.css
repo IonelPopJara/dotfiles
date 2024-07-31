@@ -1,0 +1,188 @@
+* {
+    font-family: 'CaskaydiaCove Nerd Font Mono';
+    font-size: 16px;
+    font-weight: bold;
+}
+
+window#waybar {
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    text-shadow: none;
+    transition-duration: 0s;
+    color: rgba(235, 219, 178, 1);
+    background: rgba(40, 40, 40, 0.5);
+}
+
+.modules-left {
+    background: rgb(40, 40, 40);
+    border-radius: 15px;
+    margin: 0 5px;
+    padding: 0 5px;
+}
+
+.modules-center {
+    background: rgb(40, 40, 40);
+    border-radius: 15px;
+    margin: 0 5px;
+    padding: 0 5px;
+}
+
+.modules-right {
+    background: rgb(40, 40, 40);
+    border-radius: 15px;
+    margin: 0 5px;
+    padding: 0 5px;
+}
+
+#workspaces {
+    margin: 0 5px;
+}
+
+#workspaces button {
+    padding: 0 8px;
+    color: #ebdbb2;
+    border: 3px solid rgba(9, 85, 225, 0);
+    border-radius: 10px;
+    min-width: 33px;
+}
+
+#workspaces button.visible {
+    color: #689d6a;
+}
+
+#workspaces button.focused {
+    border-top: 3px solid #7aa2f7;
+    border-bottom: 3px solid #7aa2f7;
+}
+
+#workspaces button.urgent {
+    background-color: #a96d1f;
+    color: white;
+}
+
+#workspaces button:hover {
+    box-shadow: inherit;
+    border-color: #8ec07c;
+    color: #8ec07c;
+}
+
+/* Repeat style here to ensure properties are overwritten as there's no !important and button:hover above resets the colour */
+
+#workspaces button.focused {
+    color: #7aa2f7;
+}
+#workspaces button.focused:hover {
+    color: #bb9af7;
+}
+
+#custom-recorder {
+	font-size: 18px;
+	margin: 2px 7px 0px 7px;
+	color:#ee2e24;
+}
+
+#tray,
+#mode,
+#battery,
+#temperature,
+#cpu,
+#memory,
+#network,
+#pulseaudio,
+#idle_inhibitor,
+#sway-language,
+#backlight,
+#custom-storage,
+#custom-cpu_speed,
+#custom-powermenu,
+#custom-spotify,
+#custom-weather,
+#custom-mail,
+#custom-media {
+    margin: 0px;
+    padding: 0 5px;
+}
+
+#cpu {
+    color: rgba(215, 153, 33, 1);
+}
+
+#memory {
+    color: rgba(69, 133, 136, 1);
+}
+
+#temperature {
+    color: rgba(204, 36, 29, 1);
+}
+
+#network {
+    color: rgba(254, 128, 25, 1);
+}
+
+#pulseaudio {
+    color: rgba(152, 151, 26, 1);
+}
+
+#clock {
+    padding: 0 5px;
+    color: rgba(104, 157, 106, 1);
+}
+
+#backlight {
+    color: rgba(177, 98, 134, 1);
+}
+
+#battery {
+    color: rgba(152, 151, 26, 1);
+}
+
+#battery.warning {
+    color: rgba(215, 153, 33, 1);
+}
+
+#battery.critical {
+    color: rgba(204, 36, 29, 1);
+}
+
+#battery.charging {
+    color: rgba(69, 133, 136, 1);
+}
+
+#custom-storage.warning {
+    color: rgba(255, 210, 4, 1);
+}
+
+#custom-storage.critical {
+    color: rgba(238, 46, 36, 1);
+}
+
+@keyframes blink {
+    to {
+        background-color: #ffffff;
+        color: black;
+    }
+}
+
+#power-profiles-daemon {
+    margin: 0 0px;
+    padding: 0 15px;
+    font-size: 20px;
+    border-radius: 50px;
+}
+
+#power-profiles-daemon.performance {
+    background-color: #f7768e;
+    color: #282828;
+}
+
+#power-profiles-daemon.balanced {
+    background-color: #7aa2f7;
+    color: #282828;
+}
+
+#power-profiles-daemon.power-saver {
+    background-color: #9ece6a;
+    color: #282828;
+}
+

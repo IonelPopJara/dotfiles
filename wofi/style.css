@@ -1,0 +1,32 @@
+window {
+  font-size: 18px;
+  border: 2px solid rgba(215, 153, 33, 1);
+  background-color: rgba(40, 40, 40, 0.8);
+  border-radius: 15px;
+} 
+
+#inner-box {
+  padding: 0 15px;
+}
+
+#input {
+  margin: 10px;
+  border-color: rgba(254, 128, 24, 0.5);
+}
+
+#input:focus {
+  box-shadow: 0 0 0 2px rgba(69, 133, 136, 0.8);
+}
+
+#text {
+  color: rgba(235, 219, 178, 1);
+}
+
+#entry {
+  margin: 2 0px;
+}
+
+#entry:selected {
+  background-color: rgba(254, 128, 25, 0.5);
+}
+
