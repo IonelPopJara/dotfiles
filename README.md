@@ -6,35 +6,36 @@ My os configuration files
 ## Previews
 
 <p align="center">
-    <img src="assets/desktop.png" alt="desktop", width="150"/>
+    <img src="assets/desktop.png" alt="desktop", width="600"/>
     <br/>
     <i>Empty desktop<i>
 </p>
 
 
 <p align="center">
-    <img src="assets/nvim-cava-vumz.png" alt="nvim-cava-vumz", width="150"/>
+    <img src="assets/nvim-cava-vumz.png" alt="nvim-cava-vumz"/>
     <br/>
     <i>NeoVim, Cava, and Vumz<i>
 </p>
 
 <p align="center">
-    <img src="assets/neofetch.png" alt="neofetch", width="150"/>
+    <img src="assets/neofetch.png" alt="neofetch"/>
     <br/>
     <i>Neofetch<i>
 </p>
 
 <p align="center">
-    <img src="assets/wofi.png" alt="wofi", width="150"/>
+    <img src="assets/wofi.png" alt="wofi"/>
     <br/>
     <i>Wofi<i>
 </p>
 
 <p align="center">
-    <img src="assets/ranger-pipes-cowsay.png" alt="ranger-pipes-cowsay", width="150"/>
+    <img src="assets/ranger-pipes-cowsay.png" alt="ranger-pipes-cowsay"/>
     <br/>
     <i>Ranger, Pipes, and Cowsay<i>
 </p>
+
 ## Overview
 
 This repository contains configurations for:
@@ -54,6 +55,7 @@ This repository contains configurations for:
 - **Color Scheme**: [Gruvbox](https://github.com/morhetz/gruvbox)
 - **Shell**: Zsh with [PowerLevel10k](https://github.com/romkatv/powerlevel10k) as a theme
 - **GTK Theme**: [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme)
+- **Wallpaper**: [George Rushin's Corouscant][https://www.artstation.com/artwork/vDo0RO]
 
 ## Scripts displayed in the previews
 
