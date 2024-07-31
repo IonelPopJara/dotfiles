@@ -1,6 +1,8 @@
 <h1 align="center"><i>~/.config/</i></h1>
 
-My personal dotfiles for my Fedora Hyprland setup
+<p align="center">
+    My personal dotfiles for my Fedora Hyprland setup
+</p>
 
 ## Previews
 
@@ -31,7 +33,7 @@ This repository contains configurations for:
 - **Color Scheme**: [Gruvbox](https://github.com/morhetz/gruvbox)
 - **Shell**: Zsh with [PowerLevel10k](https://github.com/romkatv/powerlevel10k) as a theme
 - **GTK Theme**: [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme)
-- **Wallpaper**: [George Rushin's Corouscant][https://www.artstation.com/artwork/vDo0RO]
+- **Wallpaper**: [George Rushin's Corouscant](https://www.artstation.com/artwork/vDo0RO)
 
 ## Scripts displayed in the previews
 
