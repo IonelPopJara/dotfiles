@@ -1,4 +1,6 @@
-<h1 align="center"><i>home/mults/.config/</i></h1>
+<h1 align="center"><i>~/.config/</i></h1>
+
+My personal dotfiles for my Fedora Hyprland setup
 
 ## Previews
 
@@ -9,36 +11,6 @@
 | Neofetch                  | ![desktop](assets/neofetch.png)            | 
 | Wofi                      | ![desktop](assets/wofi.png)                | 
 | Ranger, Pipes, and Cowsay | ![desktop](assets/ranger-pipes-cowsay.png) | 
-
-### Empty Desktop
-<p align="center">
-    <img src="assets/desktop.png" alt="desktop"/>
-    <br/>
-</p>
-
-### NeoVIM, Cava, and Vumz
-<p align="center">
-    <img src="assets/nvim-cava-vumz.png" alt="nvim-cava-vumz"/>
-    <br/>
-</p>
-
-### Neofetch
-<p align="center">
-    <img src="assets/neofetch.png" alt="neofetch"/>
-    <br/>
-</p>
-
-### Wofi
-<p align="center">
-    <img src="assets/wofi.png" alt="wofi"/>
-    <br/>
-</p>
-
-### Ranger, Pipes, and Cowsay
-<p align="center">
-    <img src="assets/ranger-pipes-cowsay.png" alt="ranger-pipes-cowsay"/>
-    <br/>
-</p>
 
 ## Overview
 
